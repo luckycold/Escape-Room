@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/GameAssets/Scenes/Room1.unity
+- path: Assets/GameAssets/Scenes/WinScreen.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
